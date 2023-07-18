@@ -6,7 +6,6 @@ const URL = "https://teachablemachine.withgoogle.com/models/D7gQZ7cw9/";
 
 let model, webcam, labelContainer, maxPredictions;
 
-// Load the image model and setup the webcam
 async function init() {
     const modelURL = URL + "model.json";
     const metadataURL = URL + "metadata.json";
@@ -14,7 +13,6 @@ async function init() {
 
     model = await tmImage.load(modelURL, metadataURL);
     maxPredictions = model.getTotalClasses();
-
 
     const flip = true;
     webcam = new tmImage.Webcam(800, 800, flip);
