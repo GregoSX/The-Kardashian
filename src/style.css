@@ -17,15 +17,15 @@ body {
 }
 
 .webcam-container {
-    width: 60vw;
-    height: 80vh;
-    border: 2px solid #ccc;
+    width: 600px;
+    height: 600px;
+    border: 4px solid rgb(57, 35, 182);
     border-radius: 8px;
     overflow: hidden;
 }
 
 .label-container {
-    margin-top: 20px;
-    font-size: 36px;
+    margin-top: 30px;
+    font-size: 100px;
     text-align: center;
 }
