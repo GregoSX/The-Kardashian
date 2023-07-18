@@ -1,12 +1,31 @@
-#webcam-container {
-    position: relative;
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
 }
 
-#label-container {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 1;
-    color: white;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.webcam-container {
+    width: 60vw;
+    height: 80vh;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.label-container {
+    margin-top: 20px;
+    font-size: 36px;
+    text-align: center;
 }

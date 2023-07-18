@@ -7,13 +7,20 @@
     <title>Tachible Machine IA</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
     <script src="script.js"></script>
 </head>
 
 <body>
-    <div id="webcam-container" style="display: grid; place-items: center; height: 100h;"></div>
-    <div id="label-container" style="font-size: 150px; text-align: center;"></div>
+    <header>
+        <h1>Teachable Machine IA</h1>
+    </header>
+
+    <article class="container">
+        <section class="webcam-container" id="webcam-container"></section>
+        <section class="label-container" id="label-container"></section>
+    </article>
 </body>
 
 </html>
