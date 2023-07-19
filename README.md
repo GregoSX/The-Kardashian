@@ -45,6 +45,7 @@ Este projeto foi desenvolvido por:
 
 - [Guilherme Grego Santos](https://github.com/GregoSX)
 - [Otavio Augusto Trindade Fonseca](https://github.com/ootaviofonseca)
+- [Luiz Henrique Reis de Carvalho](https://github.com/Luiziki)
 - [Milton Pereira Carvalhaes Neto](https://github.com/notlimneto)
 
 ## Referências
