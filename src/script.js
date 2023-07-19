@@ -2,6 +2,7 @@
 // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
 // link do modelo
+//https://teachablemachine.withgoogle.com/models/V3RmVsZRj/ 
 const URL = "https://teachablemachine.withgoogle.com/models/V3RmVsZRj/";
 
 let model, webcam, labelContainer, maxPredictions, predictionList;

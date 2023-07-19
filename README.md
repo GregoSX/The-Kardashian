@@ -28,6 +28,10 @@ Nossa solução é desenvolver um sistema de reconhecimento de objetos utilizand
 - Teachable Machine (biblioteca JS fornecida pelo Google para treinamento de modelos de aprendizado de máquina)
 - TensorFlow (Teachable Machine usa o TensorFlow.js como parte de sua infraestrutura para permitir que os usuários criem e treinem modelos de aprendizado de máquina )  
 
+## Visão arquitetônica
+
+![Visão arquitetônica](/img.jpeg)
+
 ## Como Executar o Projeto
 
 1. Clone este repositório em sua máquina local:
