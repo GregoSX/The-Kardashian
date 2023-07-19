@@ -2,6 +2,10 @@
 
 Este projeto é parte de um trabalho prático da disciplina de Sistemas Distribuídos. O objetivo é criar um sistema de reconhecimento de objetos utilizando o Teachable Machine como contexto educativo. O sistema permitirá treinar diferentes objetos e exibir seus nomes quando forem reconhecidos.
 
+## Como funciona o Teachable Machine
+
+O Teachable Machine utiliza o aprendizado de máquina baseado em transferência para permitir que os usuários treinem modelos de IA sem codificação. Ele utiliza um modelo pré-treinado para extrair características dos dados coletados pelos usuários e, em seguida, treina uma camada de classificação personalizada com base nos exemplos e rótulos fornecidos. Depois do treinamento, o modelo pode ser implantado para fazer previsões em tempo real. O Teachable Machine é construído com frameworks de aprendizado de máquina, como o TensorFlow.js, e funciona diretamente no navegador para uma experiência rápida e interativa.
+
 ## Problema
 
 Uma das problemáticas na educação é o engajamento dos alunos em atividades de aprendizado. Muitas vezes, o ensino tradicional pode ser monótono e pouco interativo. Com o uso da tecnologia e técnicas de IA, podemos criar uma experiência educativa mais envolvente.
@@ -22,7 +26,7 @@ Nossa solução é desenvolver um sistema de reconhecimento de objetos utilizand
 
 1. Clone este repositório em sua máquina local:
 
-    `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+    `git clone https://github.com/GregoSX/The-Kardashian.git`
 
 
 2. Abra o arquivo `index.html` em seu navegador.
