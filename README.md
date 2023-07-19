@@ -52,6 +52,7 @@ Este projeto foi desenvolvido por:
 - [Otavio Augusto Trindade Fonseca](https://github.com/ootaviofonseca)
 - [Luiz Henrique Reis de Carvalho](https://github.com/Luiziki)
 - [Milton Pereira Carvalhaes Neto](https://github.com/notlimneto)
+- [Eduardo Dezena Gonçalves](https://github.com/Dezena14)
 
 ## Referências
 
