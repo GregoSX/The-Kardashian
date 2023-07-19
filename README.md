@@ -13,6 +13,12 @@ Uma das problemáticas na educação é o engajamento dos alunos em atividades d
 ## Solução Proposta
 
 Nossa solução é desenvolver um sistema de reconhecimento de objetos utilizando o Teachable Machine. Ao treinar diferentes objetos, os alunos poderão interagir com o sistema e ver o nome do objeto sendo exibido na tela quando ele for reconhecido pela câmera.
+    
+## Artigos e notícias sobre tecnologia e educação
+- [O uso da tecnologia na alfabetização de crianças](https://www.lume.ufrgs.br/bitstream/handle/10183/133993/000979696.pdf?sequenc)
+- [Como a tecnologia está mudando a Alfabetização?](https://novaescola.org.br/conteudo/18353/como-a-tecnologia-esta-mudando-a-alfabetizacao)
+- [6 principais desafios da alfabetização enfrentados por estudantes e famílias](https://escoladainteligencia.com.br/blog/desafios-da-alfabetizacao/)
+
 
 ## Tecnologias Utilizadas
 
@@ -40,7 +46,6 @@ Nossa solução é desenvolver um sistema de reconhecimento de objetos utilizand
 6. Aponte a câmera para um objeto treinado e aguarde o reconhecimento. O nome do objeto será exibido na tela.
 
 ## Desenvolvedores
-
 Este projeto foi desenvolvido por:
 
 - [Guilherme Grego Santos](https://github.com/GregoSX)
